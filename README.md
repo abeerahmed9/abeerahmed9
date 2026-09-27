@@ -3,7 +3,7 @@
 I am a passionate Mobile App Developer focused on creating clean frontend user interfaces and integrating scalable backends.
 
 ### 🛠️ Tech Stack & Toolkit
-- **Frontend & Apps:** Flutter / React Native / Android Development
+- **Frontend & Apps:** React Native / Android Development
 - **Backend & Database:** Firebase, MongoDB, Node.js
 - **Version Control:** Git & GitHub
 
